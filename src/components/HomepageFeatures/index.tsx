@@ -4,38 +4,37 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Self Study',
+    title: 'Cost-Effective Monitoring',
     // Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        The ultimate goal of education is to empower students to learn independently. 
-        Given the vast amount of knowledge available, no institution can teach everything. 
-        Our mission is to guide you in developing the skills necessary to learn autonomously. 
-        While we cannot teach you everything, we aim to help you master the art of self-learning.
+        We provide affordable monitoring solutions tailored for small and medium-sized businesses. 
+        Our services are designed to help you keep track of your applications and servers without breaking the bank. 
+        We believe that effective monitoring should be accessible to all businesses, regardless of their size or budget.
       </>
     ),
-  },
+  }, 
   {
-    title: 'Focus on What Matters',
-    // Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        In life, it is essential to prioritize what truly matters. Not all skills are equally valuable; 
-        some are more critical than others. From our perspective, the most important skills are those 
-        that enable you to secure and sustain employment. Our objective is to assist you in acquiring 
-        these essential skills.
-      </>
-    ),
-  },
-  {
-    title: 'Practice and Repeat',
+    title: 'Customized Development',
     // Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        The most effective way to learn is through consistent practice. The more you practice, the 
-        better you become. Practice enhances your understanding, retention, and ability to apply 
-        what you have learned. Our goal is to support you in practicing and reinforcing your knowledge 
-        to achieve mastery.
+        We understand that every business has unique needs. Our team is dedicated to working closely 
+        with you to develop customized solutions that meet your specific requirements. We believe in 
+        tailoring our services to fit your business, ensuring that you get the most out of our monitoring 
+        solutions.
+      </>
+    ),
+  },
+  {
+    title: 'Open Source Tools',
+    // Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    description: (
+      <>
+        We leverage the power of open source tools to provide you with robust and reliable monitoring solutions. 
+        By utilizing these tools, we can offer you high-quality services without the hefty price tag associated 
+        with proprietary software. Our commitment to open source ensures transparency, flexibility, and cost savings 
+        for your business.
       </>
     ),
   },
@@ -63,9 +62,11 @@ export default function HomepageFeatures() {
           <Heading as="h2" className="text--center">
             Our Mission
           </Heading>
-          <p className="text--center">
-            We are committed to building a community that supports one another in becoming self-sufficient learners. Our focus is on developing the most essential skills and providing meaningful opportunities for growth.
-          </p>
+            <p className="text--center">
+            It's 2025,  still many small and medium-sized companies still cannot afford to utilize monitoring services 
+            because using Datadogs, New Relics, and other similar services is too expensive. We are small business based in Phoenix, Arizona helping
+            small and medium-sized companies to monitor their applications and servers at a very efforadable cost utilising open source tools.            
+            </p>
         </div>
         <div className="row">
           {FeatureList.map((props, idx) => (

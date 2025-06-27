@@ -9,7 +9,14 @@
   position: relative;
   overflow: hidden;
 }
-
+.centerContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: top; /* Align items to the top */
+  align-items: center;
+  min-height: unset; /* Remove vertical centering */
+  
+}
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;

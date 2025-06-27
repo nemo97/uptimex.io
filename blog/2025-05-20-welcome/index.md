@@ -1,17 +1,11 @@
 ---
-title: Welcome Docusaurus
-description: This is my first post on Docusaurus.
-slug: welcome-docusaurus-v2
+title: Welcome at Uptime X
+description: Intial Post.
+slug: initial-post
 authors: subhas
-tags: [hello, docusaurus-v2]
+tags: []
 image: https://i.imgur.com/mErPwqL.png
 hide_table_of_contents: false
 ---
+Comming Soon ...
 
-Welcome to this blog. This blog is created with [**Docusaurus 2**](https://docusaurus.io/).
-
-<!-- truncate -->
-
-This is my first post on Docusaurus 2.
-
-A whole bunch of exploration to follow.
