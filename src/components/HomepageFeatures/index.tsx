@@ -63,9 +63,7 @@ export default function HomepageFeatures() {
             Our Mission
           </Heading>
             <p className="text--center">
-            It's 2025,  still many small and medium-sized companies still cannot afford to utilize monitoring services 
-            because using Datadogs, New Relics, and other similar services is too expensive. We are small business based in Phoenix, Arizona helping
-            small and medium-sized companies to monitor their applications and servers at a very efforadable cost utilising open source tools.            
+            In 2025, many small and medium-sized businesses still face challenges in accessing reliable monitoring services due to the high costs associated with providers like Datadog and New Relic. As a small business based in Phoenix, Arizona, we are dedicated to helping organizations monitor their applications and servers affordably by leveraging open source tools.
             </p>
         </div>
         <div className="row">
