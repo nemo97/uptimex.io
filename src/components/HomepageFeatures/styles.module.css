@@ -1,0 +1,23 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+.skills {
+  display: flex;
+  flex-direction: row;
+  list-style:none;
+  padding: 0px;
+  justify-content: space-between;
+}
+.skills div {
+  display: inline-block;
+  border:1px solid grey;
+  padding:5px 10px;
+}
