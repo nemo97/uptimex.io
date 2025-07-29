@@ -7,5 +7,5 @@ tags: []
 image: https://i.imgur.com/mErPwqL.png
 hide_table_of_contents: false
 ---
-Comming Soon ...
+Initial blog post, more to come ...
 
