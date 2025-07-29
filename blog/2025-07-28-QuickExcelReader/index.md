@@ -61,7 +61,9 @@ Quick Excel Reader library in your Java project. Checkout for latest version in 
 
 ```
 
-- Create Excel defination file in resources for maven project. Refer schema defination section for details.
+- Create Excel defination file in resources for maven project to read following excel file. Refer schema defination section for details.
+
+![Excel File](./images/excel_file.png)
 
 ```json
 
